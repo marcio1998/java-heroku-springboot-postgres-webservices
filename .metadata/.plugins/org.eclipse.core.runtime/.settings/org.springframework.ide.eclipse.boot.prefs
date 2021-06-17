@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=course
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.5.1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Projeto realizado com Java Springboot e JPA/Hibernate, web services. Uma aplica\u00E7\u00E3o back-end
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.example
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=course
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.course
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
